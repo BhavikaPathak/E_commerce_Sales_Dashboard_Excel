@@ -1,4 +1,7 @@
-# **E_commerce_Sales_Dashboard_Excel**  
+# **E_commerce_Sales_Dashboard_Excel** 
+
+![Uploading Screenshot 2024-09-07 153907.png…]()
+
 The project focuses on monitoring and tracking the sales performance of an e-commerce business using data visualization techniques. The dashboard enables stakeholders to gain insights into key sales metrics, helping to make data-driven decisions for optimizing sales strategies.
 
 **Technical Aspect**  
